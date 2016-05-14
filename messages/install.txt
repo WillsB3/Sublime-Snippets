@@ -1,0 +1,9 @@
+Web Development Snippets for Sublime Text 3
+https://github.com/WillsB3/Sublime-Snippets
+
+
+Version 0.0.1
+********************************************************************************
+
+Installed!
+
