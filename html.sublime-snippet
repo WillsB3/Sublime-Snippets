@@ -17,7 +17,7 @@
 	<!-- Optional: Tab trigger to activate the snippet -->
 	<tabTrigger>html</tabTrigger>
 	<!-- Optional: Scope the tab trigger will be active in -->
-	<scope>text.html</scope>
+	<scope>text.html,text.html.django,text.html.jinja2</scope>
 	<!-- Optional: Description to show in the menu -->
 	<description>HTML - HTML scaffold</description>
 </snippet>
