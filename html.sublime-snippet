@@ -14,7 +14,10 @@
 	<script src="$5.js"></script>
 </body>
 </html>]]></content>
+	<!-- Optional: Tab trigger to activate the snippet -->
 	<tabTrigger>html</tabTrigger>
-	<description>HTML - HTML scaffold</description>
+	<!-- Optional: Scope the tab trigger will be active in -->
 	<scope>text.html</scope>
+	<!-- Optional: Description to show in the menu -->
+	<description>HTML - HTML scaffold</description>
 </snippet>
